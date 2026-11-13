@@ -1,1 +1,24 @@
-
+cff-version: 1.2.0
+message: "If you use HOUSIONNA, please cite it as below."
+title: "HOUSIONNA: Houdini to Sionna RT"
+type: software
+authors:
+  - family-names: Putteneers
+    given-names: Joris
+    orcid: "https://orcid.org/0009-0000-8963-9094"
+    affiliation: "KU Leuven"
+  - family-names: Forrez
+    given-names: Beau
+    orcid: "https://orcid.org/0009-0008-7210-6070"
+    affiliation: "KU Leuven"
+repository-code: "https://github.com/HyROPA/HOUSIONNA"
+url: "https://hyropa.github.io/HOUSIONNA/"
+version: "1.0"
+date-released: "2026-11-13"
+license: MIT
+keywords:
+  - ray tracing
+  - Sionna RT
+  - Houdini
+  - procedural modelling
+  - smart agriculture
