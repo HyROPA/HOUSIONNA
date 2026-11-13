@@ -26,6 +26,7 @@ HOUSIONNA connects procedural scene generation in [Houdini](https://www.sidefx.c
 | [`houdini_files/`](houdini_files/) | Example scene (`.hipnc`), the Houdini plugin (`sionna/sionna_sop.py`), the solver (`sionna/sionna_run.py`) and the material library | [Plugin](houdini_files/README.md) · [Scene format and materials](houdini_files/sionna/README.md) |
 | [`toolkit/`](toolkit/) | Python: run import, local viewer server, application engine, website publishing, tests | [Toolkit](toolkit/README.md) |
 | [`viewer/`](viewer/) | The three.js web viewer | [Viewer](viewer/README.md) |
+| [`docs/`](docs/) | The L-system rules of the four crops, readable without Houdini | [L-system rules](docs/lsystem_rules.md) |
 
 ## Quick start
 
@@ -55,6 +56,10 @@ npm --prefix ../viewer install && npm --prefix ../viewer run build
 ## Citation
 
 J. Putteneers, B. Forrez and G. Callebaut, "Open-Source Procedural Radio Propagation Modelling for Sensor Networks in Smart Agriculture," submitted.
+
+## License
+
+HOUSIONNA is licensed under the GNU General Public License v3.0 or later. See [LICENSE](LICENSE).
 
 ## Acknowledgements
 

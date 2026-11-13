@@ -1,5 +1,6 @@
 # Python environment of the solver (see README)
 venv/
+.venv/
 __pycache__/
 *.py[cod]
 
